@@ -1,0 +1,14 @@
+DAY 1 task 
+
+
+
+1.Difference between http1.1 and http2:
+    HTTP1.1 can load the resources one by one.It wont allows the loading of others resources when it is loading.so the time required is more when it is loading one by one.It compress the data by itself.
+    HTTP2 can load the resources simultaneously.Data can be loaded easily.One resources cant block the loading of other resources. It is not widly used.TCP connection is required.
+
+
+
+2. Blogs about the internal representation of an object:
+
+          It is one of the data type in javascript.It is used to store various keyed collection.They can be accessed by two ways.1st is DOt method ie objectname.keyname. 2nd one is Box method
+ie objectname["keyname"]. 
